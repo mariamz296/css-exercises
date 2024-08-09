@@ -1,0 +1,18 @@
+.class-text {
+    background-color:rgb(231, 174, 196);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.size24 {
+    font-size: 24px;
+}
+
+#num2 {
+    color: rgb(24, 100, 223);
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: rgb(115, 216, 115);
+    font-weight: bold;
+}
